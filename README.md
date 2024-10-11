@@ -7,12 +7,12 @@ This Power BI dashboard provides a comprehensive visual analysis of Lionel Messi
 <b>Key Visualizations:</b><br>
 <ul style="list-style-type: square; list-style-position: inside;">
 <p><li><b>Total Club Goals-</b> A breakdown of Messi's overall goal tally, showcasing his prolific scoring ability.</li><br>
-<li><b>Competition Goals-</b> An analysis of Messi's goal distribution across different competitions, highlighting his success in major tournaments.</p>li><br>
+<li><b>Competition Goals-</b> An analysis of Messi's goal distribution across different competitions, highlighting his success in major tournaments.</li><br>
 <li><b>Assist Provider-</b> A visualization of the players who have assisted Messi's goals, revealing his strong partnerships on the field.</li><br>
 <li><b>Favorite Opponent-</b> A comparison of Messi's goal-scoring records against different teams, identifying his preferred adversaries.</li><br>
 <li><b>Favorite Playing Position-</b> An exploration of Messi's preferred playing positions and their impact on his goal-scoring efficiency.</li><p>
 </ul>
-<b>Data Sources:<br></b> https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals
+<b>Data Sources:<br></b> https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals<br>
 
 <b>Project Goals:</b><br>
 <ul style="list-style-type: circle; list-style-position: inside;">
