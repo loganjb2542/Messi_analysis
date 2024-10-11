@@ -1,4 +1,4 @@
-# bi_projects
+# Messi's_club_goal_analysis 
 <b>Project Description:</b> <br>A Visual Exploration of Lionel Messi's Club Goals
 
 <b>Project Overview:</b><br>
