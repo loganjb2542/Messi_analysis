@@ -19,6 +19,11 @@ This Power BI dashboard provides a comprehensive visual analysis of Lionel Messi
 
 ![Screenshot (296)](https://github.com/user-attachments/assets/9a62328c-4610-478c-83e1-6752bc394c81)
 
+<b> Pic 3 </b>
+
+
+
+![Screenshot (297)](https://github.com/user-attachments/assets/cb7d5a5a-8c8d-4c00-9fa3-1cc54fc0a951)
 
 <b>Data Sources:<br></b> https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals<br><br>
 
