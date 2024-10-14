@@ -15,7 +15,7 @@ This Power BI dashboard provides a comprehensive visual analysis of Lionel Messi
 <b>Overall Stats</b>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/177759397/376108222-327bbd7e-4794-4975-9364-c9b69f239033.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241014%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241014T044103Z&X-Amz-Expires=300&X-Amz-Signature=d9ec614ac57344de6c8f97d8e6c4ce51b71b11425b2880f310d63bff0dd7656f&X-Amz-SignedHeaders=host" alt="Overall stats">
 
-<b> Pic 1 </b>
+<b> Pic 2 </b>
 
 ![Screenshot (296)](https://github.com/user-attachments/assets/9a62328c-4610-478c-83e1-6752bc394c81)
 
