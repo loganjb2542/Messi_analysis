@@ -12,9 +12,10 @@ This Power BI dashboard provides a comprehensive visual analysis of Lionel Messi
 <li><b>Favorite Opponent-</b> A comparison of Messi's goal-scoring records against different teams, identifying his preferred adversaries.</li><br>
 <li><b>Favorite Playing Position-</b> An exploration of Messi's preferred playing positions and their impact on his goal-scoring efficiency.</li><p>
 </ul>
-<img src="C:\Users\Dell\Pictures\Screenshots\Screenshot (295).png" alt="stats"
+![Screenshot (295)](https://github.com/user-attachments/assets/327bbd7e-4794-4975-9364-c9b69f239033)
 
 <b>Data Sources:<br></b> https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals<br><br>
+
 
 <b>Project Goals:</b><br>
 <ul style="list-style-type: circle; list-style-position: inside;">
