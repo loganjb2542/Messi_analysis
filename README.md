@@ -1,43 +1,69 @@
-# Messi's_club_goal_analysis 
-<b>Project Description:</b> <br>A Visual Exploration of Lionel Messi's Club Goals
+# Netflix Data Analysis
+## Project Description
 
-<b>Project Overview:</b><br>
-This Power BI dashboard provides a comprehensive visual analysis of Lionel Messi's illustrious career, focusing on his goal-scoring accomplishments across various club competitions ( from 01/01/2005-11/01/2023). By leveraging interactive visualizations, this project aims to uncover insights into Messi's goal-scoring patterns, preferences, etc.
+This Power BI dashboard provides a comprehensive overview and in-depth analysis of Netflix data. It is designed to help users gain insights into various aspects of Netflix content, including genre popularity, rating distribution, season counts, and more.
 
-<b>Key Visualizations:</b><br>
-<ul style="list-style-type: square; list-style-position: inside;">
-<p><li><b>Total Club Goals-</b> A breakdown of Messi's overall goal tally, showcasing his prolific scoring ability.</li><br>
-<li><b>Competition Goals-</b> An analysis of Messi's goal distribution across different competitions, highlighting his success in major tournaments.</li><br>
-<li><b>Assist Provider-</b> A visualization of the players who have assisted Messi's goals, revealing his strong partnerships on the field.</li><br>
-<li><b>Favorite Opponent-</b> A comparison of Messi's goal-scoring records against different teams, identifying his preferred adversaries.</li><br>
-<li><b>Favorite Playing Position-</b> An exploration of Messi's preferred playing positions and their impact on his goal-scoring efficiency.</li><p>
-</ul>
-<b>Overall Stats</b>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/177759397/376108222-327bbd7e-4794-4975-9364-c9b69f239033.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241014%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241014T044103Z&X-Amz-Expires=300&X-Amz-Signature=d9ec614ac57344de6c8f97d8e6c4ce51b71b11425b2880f310d63bff0dd7656f&X-Amz-SignedHeaders=host" alt="Overall stats">
+### Dashboard Structure
+The dashboard consists of two primary sheets:
 
-<b> Pic 2 </b>
+### Overview Sheet-
+#### Stacked Bar Charts:
+- Top 10 Genre: Visualizes the most popular genres on Netflix.
+![Screenshot (311)](https://github.com/user-attachments/assets/6959ac2d-8419-4ce6-bb31-7c65a84bd924)
+- Count of Rating by Type: Displays the rating distribution (e.g., TV-14, PG-13) across different content types.
+![Screenshot (320)](https://github.com/user-attachments/assets/85587ee6-05ea-4fc9-9e53-4ff702a29bc7)
+- Count of Season by Number: The frequency of different season counts for TV shows.
 
-![Screenshot (296)](https://github.com/user-attachments/assets/9a62328c-4610-478c-83e1-6752bc394c81)
+![Screenshot (316)](https://github.com/user-attachments/assets/a884e55b-df6f-485e-91ff-7a4fc0234229)
 
-<b> Pic 3 </b>
+#### Card Visuals:
+- Total Number of Shows & Movies: Provides a count of all shows on Netflix.
+![Screenshot (318)](https://github.com/user-attachments/assets/c8ac8f99-d61e-4b3d-8c21-4372c8587d6e)
+- Total Number of Directors: Displays the total number of unique directors involved in Netflix content.
+![Screenshot (322)](https://github.com/user-attachments/assets/ad24b491-80b8-4272-b76b-35b69af9e0e2)
 
-
-
-![Screenshot (297)](https://github.com/user-attachments/assets/cb7d5a5a-8c8d-4c00-9fa3-1cc54fc0a951)
-
-<b>Data Sources:<br></b> https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals<br><br>
+- Number of different Genres: Presents the total count of different genres present.
+![Screenshot (321)](https://github.com/user-attachments/assets/df1b3d32-0cee-4eb8-a6c7-f28a9ab6c89d)
 
 
-<b>Project Goals:</b><br>
-<ul style="list-style-type: circle; list-style-position: inside;">
-<li>To provide a visually engaging and informative dashboard for fans and analysts to explore Messi's career achievements.</li><br>
-<li>To identify key trends and patterns in Messi's goal-scoring statistics.</li><br>
-<li>To showcase the power of Power BI in creating interactive and insightful data visualizations.</li><br>
-</ul>
+- Average Duration Time: Shows the average duration of Netflix content.
+![Screenshot (317)](https://github.com/user-attachments/assets/cf4f8a50-c8bb-414d-9a05-5e44a21e3270)
 
-<b>Additional Features:</b><br>
-<ul style="list-style-type: circle; list-style-position: inside;">
-<li>Interactive filters and slicers allow users to customize the analysis.</li><br>
-<li>Time-series visualizations to track Messi's goal-scoring progress over time.</li><br>
-<li>This project offers a valuable resource for understanding Lionel Messi's exceptional career and impact on football by utilizing these visualizations and features.</li><br>
-</ul>
+#### Filter Visuals:
+- Year of Release: Allows users to filter data based on the year the content was released.
+- Listing Year on Netflix: Enables filtering based on the year the content was added to Netflix.
+
+### Decomposed View Sheet-
+- Decomposed Tree Visual: Provides a hierarchical breakdown of Netflix content, allowing users to drill down into specific categories and analyze their characteristics.
+![Screenshot (314)](https://github.com/user-attachments/assets/cb1cab0e-6716-458d-973a-d0f45aa7eb97)
+
+
+- Card Visuals: The same card visuals as the Overview sheet, providing context for the decomposed view.
+
+- Filter Visuals: The same filter visuals as the Overview sheet, enabling filtering across the decomposed tree.
+
+### Data Source:https://www.kaggle.com/datasets/shivamb/netflix-shows/discussion/279376
+
+### Key Insights:
+
+This dashboard aims to answer questions such as:
+
+(a) What are the most popular genres on Netflix?
+
+(b) How are ratings distributed across different content types?
+
+(c) What is the average duration of Netflix content?
+
+(d) How does the number of seasons vary for TV shows?
+
+(e) What are the trends in content release and addition to Netflix over time?
+
+By providing these insights, the dashboard can help users make informed decisions about content strategy, audience targeting, and content acquisition.
+
+Snapshot 1
+
+![Screenshot (311)](https://github.com/user-attachments/assets/d7db5d1b-f1bb-42b1-952c-2f98e3a1ad26)
+
+
+
+
