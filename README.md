@@ -9,21 +9,19 @@ The dashboard consists of two primary sheets:
 ### Overview Sheet-
 #### Stacked Bar Charts:
 - Top 10 Genre: Visualizes the most popular genres on Netflix.<br>
-![Screenshot (311)](https://github.com/user-attachments/assets/6959ac2d-8419-4ce6-bb31-7c65a84bd924)
-<br>
+![Screenshot (311)](https://github.com/user-attachments/assets/6959ac2d-8419-4ce6-bb31-7c65a84bd924)<br>
 - Count of Rating by Type: Displays the rating distribution (e.g., TV-14, PG-13) across different content types.<br>
-![Screenshot (320)](https://github.com/user-attachments/assets/85587ee6-05ea-4fc9-9e53-4ff702a29bc7)
-- Count of Season by Number: The frequency of different season counts for TV shows.
-
-![Screenshot (316)](https://github.com/user-attachments/assets/a884e55b-df6f-485e-91ff-7a4fc0234229)
+![Screenshot (320)](https://github.com/user-attachments/assets/85587ee6-05ea-4fc9-9e53-4ff702a29bc7)<br>
+- Count of Season by Number: The frequency of different season counts for TV shows.<br>
+![Screenshot (316)](https://github.com/user-attachments/assets/a884e55b-df6f-485e-91ff-7a4fc0234229)<br>
 
 #### Card Visuals:
-- Total Number of Shows & Movies: Provides a count of all shows on Netflix.
+- Total Number of Shows & Movies : Provides a count of all shows on Netflix.<br>
 ![Screenshot (318)](https://github.com/user-attachments/assets/c8ac8f99-d61e-4b3d-8c21-4372c8587d6e)
-- Total Number of Directors: Displays the total number of unique directors involved in Netflix content.
+- Total Number of Directors: Displays the total number of unique directors involved in Netflix content.<br>
 ![Screenshot (322)](https://github.com/user-attachments/assets/ad24b491-80b8-4272-b76b-35b69af9e0e2)
 
-- Number of different Genres: Presents the total count of different genres present.
+- Number of different Genre: Presents the total count of different genres present.<br>
 ![Screenshot (321)](https://github.com/user-attachments/assets/df1b3d32-0cee-4eb8-a6c7-f28a9ab6c89d)
 
 
