@@ -8,8 +8,9 @@ The dashboard consists of two primary sheets:
 
 ### Overview Sheet-
 #### Stacked Bar Charts:
-- Top 10 Genre: Visualizes the most popular genres on Netflix.
+- Top 10 Genre: Visualizes the most popular genres on Netflix.<br>
 ![Screenshot (311)](https://github.com/user-attachments/assets/6959ac2d-8419-4ce6-bb31-7c65a84bd924)
+<br>
 - Count of Rating by Type: Displays the rating distribution (e.g., TV-14, PG-13) across different content types.
 ![Screenshot (320)](https://github.com/user-attachments/assets/85587ee6-05ea-4fc9-9e53-4ff702a29bc7)
 - Count of Season by Number: The frequency of different season counts for TV shows.
