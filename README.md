@@ -1,67 +1,59 @@
-# Netflix Data Analysis
-## Project Description
+# Messi Club Goals Analysis
 
-This Power BI dashboard provides a comprehensive overview and in-depth analysis of Netflix data. It is designed to help users gain insights into various aspects of Netflix content, including genre popularity, rating distribution, season counts, and more.
+## Project Overview:
 
-### Dashboard Structure
-The dashboard consists of two primary sheets:
+This Power BI dashboard provides a comprehensive visual analysis of Lionel Messi's illustrious career, focusing on his goal-scoring accomplishments across various competitions. This project aims to uncover insights into Messi's goal-scoring patterns, preferences, and dominance in club football by leveraging interactive visualizations.
 
-### Overview Sheet-
-#### Stacked Bar Charts:
-- Top 10 Genre: Visualizes the most popular genres on Netflix.<br>
-![Screenshot (311)](https://github.com/user-attachments/assets/6959ac2d-8419-4ce6-bb31-7c65a84bd924)<br>
-- Count of Rating by Type: Displays the rating distribution (e.g., TV-14, PG-13) across different content types.<br>
-![Screenshot (320)](https://github.com/user-attachments/assets/85587ee6-05ea-4fc9-9e53-4ff702a29bc7)<br>
-- Count of Season by Number: The frequency of different season counts for TV shows.<br>
-![Screenshot (316)](https://github.com/user-attachments/assets/a884e55b-df6f-485e-91ff-7a4fc0234229)<br>
+## Key Visualizations:
 
-#### Card Visuals:
-- Total Number of Shows & Movies : Provides a count of all shows on Netflix.<br>
-![Screenshot (318)](https://github.com/user-attachments/assets/c8ac8f99-d61e-4b3d-8c21-4372c8587d6e)
-- Total Number of Directors: Displays the total number of unique directors involved in Netflix content.<br>
-![Screenshot (322)](https://github.com/user-attachments/assets/ad24b491-80b8-4272-b76b-35b69af9e0e2)
+### Competition Goals:
+ An analysis of Messi's goal distribution across different competitions, highlighting his success in major tournaments.<br>
 
-- Number of different Genre: Presents the total count of different genres present.<br>
-![Screenshot (321)](https://github.com/user-attachments/assets/df1b3d32-0cee-4eb8-a6c7-f28a9ab6c89d)
+![Screenshot (324)](https://github.com/user-attachments/assets/2f6b61aa-3fbe-4d17-a01d-15853952254e)
+### Top Assist Provider:
+ A visualization of the players who have assisted Messi's goals reveals his strong partnerships on the field.<br>
+![Screenshot (326)](https://github.com/user-attachments/assets/c552b956-957c-42f0-9992-0732b3451c36)
+
+### Favorite Opponent: 
+  A comparison of Messi's goal-scoring records against different teams, identifying his preferred adversaries.<br>
+  ![Screenshot (325)](https://github.com/user-attachments/assets/dd461fcd-22fb-4c7a-ba6a-5ac9a247929a)
+### Favorite Playing Position:
+ An exploration of Messi's preferred playing positions across various club competitions.<br>
+ ![Screenshot (327)](https://github.com/user-attachments/assets/dac52a2c-63f6-4048-a005-53f555e3f282)
 
 
-- Average Duration Time: Shows the average duration of Netflix content.<br>
-![Screenshot (317)](https://github.com/user-attachments/assets/cf4f8a50-c8bb-414d-9a05-5e44a21e3270)
+## Data Sources:
+ From Kaggle-
+ https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals
+## Project Goals:
 
-#### Filter Visuals:
-- Year of Release: Allows users to filter data based on the year the content was released.
-- Listing Year on Netflix: Enables filtering based on the year the content was added to Netflix.
+(a) To provide a visually engaging and informative dashboard for fans and analysts to explore Messi's career achievements.
+To identify key trends and patterns in Messi's goal-scoring statistics.
 
-### Decomposed View Sheet-
-- Decomposed Tree Visual: Provides a hierarchical breakdown of Netflix content, allowing users to drill down into specific categories and analyze their characteristics.
-![Screenshot (314)](https://github.com/user-attachments/assets/cb1cab0e-6716-458d-973a-d0f45aa7eb97)
+(b) To showcase the power of Power BI in creating interactive and insightful data visualizations.<br>
+
+### Additional Features:
+
+- Interactive filters and slicers to allow users to customize the analysis based on various club competitions.<br>
+![Screenshot (328)](https://github.com/user-attachments/assets/ec29d5a1-3815-4cbb-b85e-879323207ec4)
+
+-  Time-series visualizations to track Messi's goal-scoring progress over time(yearly).<br>
+![Screenshot (323)](https://github.com/user-attachments/assets/99b9928c-cf56-481d-9727-4d83ed967fca)
 
 
-- Card Visuals: The same card visuals as the Overview sheet, providing context for the decomposed view.
 
-- Filter Visuals: The same filter visuals as the Overview sheet, enabling filtering across the decomposed tree.
+By utilizing these visualizations and features, this dashboard offers a valuable resource for understanding Lionel Messi's exceptional career(club) and his impact on the club football across the world.
 
-### Data Source:https://www.kaggle.com/datasets/shivamb/netflix-shows/discussion/279376
 
-### Key Insights:
 
-This dashboard aims to answer questions such as:
 
-(a) What are the most popular genres on Netflix?
 
-(b) How are ratings distributed across different content types?
 
-(c) What is the average duration of Netflix content?
 
-(d) How does the number of seasons vary for TV shows?
 
-(e) What are the trends in content release and addition to Netflix over time?
 
-By providing these insights, the dashboard can help users make informed decisions about content strategy, audience targeting, and content acquisition.
 
-Snapshot 1
 
-![Screenshot (311)](https://github.com/user-attachments/assets/d7db5d1b-f1bb-42b1-952c-2f98e3a1ad26)
 
 
 
